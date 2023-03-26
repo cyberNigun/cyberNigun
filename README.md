@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs and python**
 
-- 👨‍💻 All of my projects are available at portfolio: [https://al-ameenport.netlify.app/](https://al-ameenport.netlify.app/)
+- 👨‍💻 All of my projects are available at : [portfolio](https://al-ameenport.netlify.app/)
 
 - 💬 Ask me about **React, html, javascript, CSS...**
 
